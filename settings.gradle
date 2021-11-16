@@ -1,0 +1,17 @@
+rootProject.name = 'CultTech'
+
+/** Biblib library mod **/
+include ':Bibliotheca'
+project(':Bibliotheca').projectDir = new File('../Bibliotheca')
+
+/** Quick-Harvest harvest API **/
+include ':Quick-Harvest'
+project(':Quick-Harvest').projectDir = new File('../Quick-Harvest')
+
+/** Cultivated-Tech - Main mod **/
+include ':Cultivated-Tech'
+project(':Cultivated-Tech').projectDir = new File('../Cultivated-Tech')
+
+/** Developers Toolkit - Debug mod **/
+include ':Developers-Toolkit'
+project(':Developers-Toolkit').projectDir = new File('../Developers-Toolkit')

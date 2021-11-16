@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../Bibliotheca" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Cultivated-Tech" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Developers-Toolkit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ITank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Quick-Harvest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../World-Stripper" vcs="Git" />
+  </component>
+</project>
